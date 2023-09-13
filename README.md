@@ -1,4 +1,8 @@
 ### Hi there 👋
+<h3>Web developer from Mexico City</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,styledcomponents,git,nodejs,vscode,ps&perline=4)](https://skillicons.dev)
+
 
 <!--
 **MitziYolotzin/MitziYolotzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3>Web developer from Mexico City</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,styledcomponents,git,nodejs,vscode,ps&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,sass,styledcomponents,tailwind,js,react,nextjs,vscode,ps&perline=4,ai,materialui,git,github,gitlab)](https://skillicons.dev)
 
 
 <!--

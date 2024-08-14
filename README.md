@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3>Web developer from Mexico City</h3>
+<h3>Designer & Web developer from Mexico City</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,figma,sass,styledcomponents,tailwind,js,react,nextjs,vscode,ps,ai,git,github,gitlab,notion&perline=4)](https://skillicons.dev)
 

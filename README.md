@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3>UX UI Designer from Mexico City</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,sass,styledcomponents,tailwind,vscode,github,ps,ai,git,gitlab,notion,js,react,nextjs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,sass,styledcomponents,tailwind,vscode,github,ps,ai,git,notion,gitlab,js,react,nextjs&perline=4)](https://skillicons.dev)
 
 
 <!--
